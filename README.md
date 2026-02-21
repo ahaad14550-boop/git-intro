@@ -1,1 +1,1 @@
-# Git Intro Project
+This directory contains shell basics projects
